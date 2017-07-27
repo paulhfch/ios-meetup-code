@@ -8,10 +8,17 @@ Just to keep track of the sample code and class materials that I used for iOS De
     * Various UITableViewController components
     * UISearchController
     * UIRefreshControl
-* [Coin Magic App](https://github.com/iosClassForBeginner/CoinMagicApp) to showcase
+
+    ![Pokédex app demo](https://paulhfch/ios-meetup-code/raw/master/img/pokemonListDemo.gif "Demo")
+
+
+* [Coin Magic app](https://github.com/iosClassForBeginner/CoinMagicApp) to showcase
     * UIGestureRecognizer
     * CMMotion
     * UIDynamics
-* [iOS inter-app Communication Demo](https://github.com/iosClassForBeginner/InterAppCommApp)
+
+    ![Coin Magic app demo](https://paulhfch/ios-meetup-code/raw/master/img/coinMagicAppDemo.gif "Demo")
+
+* [iOS inter-app Communication demo](https://github.com/iosClassForBeginner/InterAppCommApp)
     * Launch apps and share data by custom URL
     * UIActivityViewController
