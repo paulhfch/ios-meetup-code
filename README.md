@@ -1,6 +1,6 @@
-Just to keep track of the sample code and class materials that I used for iOS Developer Meetups in the past.
+Sample code and teaching material that I used for iOS development meet-ups in the past.
 
-### iOS Dev Meet-up
+## iOS Dev Meet-up in Namba
 * https://www.meetup.com/ios-dev-in-namba/
 
 ### Sample Code and Teaching Materials
@@ -22,3 +22,19 @@ Just to keep track of the sample code and class materials that I used for iOS De
 * [iOS inter-app Communication demo](https://github.com/iosClassForBeginner/InterAppCommApp)
     * Launch apps and share data by custom URL
     * UIActivityViewController
+
+## tacow / Toronto CocoaHeads
+* https://www.meetup.com/tacow-org/
+
+### Sessions
+* Tacow March 2018: Paul Fangchen Huang – Reverse Engineering iOS Apps
+    * [Youtube](https://www.youtube.com/watch?v=pARN85tKwpw)
+
+## Swift Hack Night
+* https://www.meetup.com/Swift-Hack-Night/
+
+### Sessions
+* A quick intro to SwiftUI and Combine ([project](https://github.com/paulhfch/ios-meetup-code/tree/master/projects/SwiftUI-Login-Service))
+    * Login form built in SwiftUI
+    * Server implementation with Vapor
+    * Data binding with Combine
